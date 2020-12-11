@@ -82,4 +82,4 @@ Part 3 게임 기획자 되기! 게임 기획의 백과사전
 
 ## 오탈자 제보 및 문의 사항
 
-- 깃허브 리파지토리 [issue 생성](https://github.com/bjpublic/game_plan/issues/new)
+- 깃허브 레파지토리 [issue 생성](https://github.com/bjpublic/game_plan/issues/new)
